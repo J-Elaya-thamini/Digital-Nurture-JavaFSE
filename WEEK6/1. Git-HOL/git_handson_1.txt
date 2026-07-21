@@ -1,25 +1,4 @@
-    1  commit -m "hi"
-    2  whoami
-    3  id
-    4  pwd
-    5  ls
-    6  echo "horimiya"
-    7  cd videos
-    8  git clone https://github.com/horimiya2817/elayathamini.git
-    9  git config --global user.name "Elaya-thamini-J"
-   10  git config --global user.email "thaminielaya1027@gmail.com"
-   11  mkdir myfile
-   12  git config --global user.name "Elaya-thamini-J"
-   13  git config --global user.email "thaminielaya1027@gmail.com"
-   14  mkdir myfile
-   15  cd myfile
-   16  git init
-   17  ls
-   18  git status
-   19  git add form.html
-   20  git log
-   21  git push
-   22  git branch
+   
    23  pwd
    24  git init
    25  git commit -m 
